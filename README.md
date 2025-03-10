@@ -11,8 +11,6 @@
 ## **🛠 Tech Stack**
 - **OpenAI GPT-4** – AI-driven chatbot
 - **Streamlit** – User-friendly UI
-- **SpeechRecognition** – Voice input processing
-- **Python** – Backend logic
 
 ## **📌 Installation**
 ```bash
