@@ -38,10 +38,3 @@ streamlit run app.py
  ├── requirements.txt  # Dependencies
 ```
 
-## **🔗 Demo & Contribution**
-Check out the live demo: [Demo Link]  
-Feel free to contribute! Fork the repo & submit a PR. 🚀
-
-## **📞 Contact**
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]
