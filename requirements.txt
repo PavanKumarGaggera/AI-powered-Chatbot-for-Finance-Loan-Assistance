@@ -1,0 +1,6 @@
+langchain_community
+langchain-openai
+openai
+bs4
+sentence-transformers
+faiss
